@@ -3,7 +3,6 @@
 A simple two-player Pong game built in Python using the `turtle` module.
 
 ## Demo
-Add a GIF or screenshot here once ready.
 
 ![Pong Game Demo](images/pong-demo.gif)
 
